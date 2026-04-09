@@ -94,7 +94,6 @@ This was a group research project completed in 2023. **My individual contributio
 ---
 
 ##  Suggestions
-
 1. Improve customer service to gain more subscribers
 2. Utilize unattended markets with appropriate strategies
 3. Consider competitive pricing
